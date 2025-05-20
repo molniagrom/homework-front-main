@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/molniagrom/homework-front/static/css/main.073c9b0a.css",
-    "main.js": "/molniagrom/homework-front/static/js/main.5a04aa93.js",
-    "static/js/787.177e23c2.chunk.js": "/molniagrom/homework-front/static/js/787.177e23c2.chunk.js",
-    "index.html": "/molniagrom/homework-front/index.html",
-    "main.073c9b0a.css.map": "/molniagrom/homework-front/static/css/main.073c9b0a.css.map",
-    "main.5a04aa93.js.map": "/molniagrom/homework-front/static/js/main.5a04aa93.js.map",
-    "787.177e23c2.chunk.js.map": "/molniagrom/homework-front/static/js/787.177e23c2.chunk.js.map"
+    "main.css": "/molniagrom/homework-front-main/static/css/main.073c9b0a.css",
+    "main.js": "/molniagrom/homework-front-main/static/js/main.ce967b24.js",
+    "static/js/787.177e23c2.chunk.js": "/molniagrom/homework-front-main/static/js/787.177e23c2.chunk.js",
+    "index.html": "/molniagrom/homework-front-main/index.html",
+    "main.073c9b0a.css.map": "/molniagrom/homework-front-main/static/css/main.073c9b0a.css.map",
+    "main.ce967b24.js.map": "/molniagrom/homework-front-main/static/js/main.ce967b24.js.map",
+    "787.177e23c2.chunk.js.map": "/molniagrom/homework-front-main/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5a04aa93.js"
+    "static/js/main.ce967b24.js"
   ]
 }
